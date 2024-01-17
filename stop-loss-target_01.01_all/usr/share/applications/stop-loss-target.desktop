@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Stop Loss Target
+Comment=Day Trading
+Exec=stop-loss-target.sh
+Icon=stop-loss-target
+Path=
+Terminal=false
+StartupNotify=false
+Categories=Accessories;Office;
+Keywords=stop;loss;target;asher;day;trading;

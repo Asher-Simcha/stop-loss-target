@@ -1,0 +1,9 @@
+Package: stop-loss-target
+Version: 1.01
+Architecture: all
+Priority: optional
+Depends: yad
+Maintainer: Ashers Programs <contact@ashersprograms.com>
+Description: This is a quick add on to Conky for Day Trading.
+ A Desktop Application to give you a quick way to calculate your Day Trading
+ quotes.
